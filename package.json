@@ -72,7 +72,7 @@
     "@tamagui/animations-moti": "1.79.19",
     "@tamagui/config": "1.79.19",
     "@tamagui/static": "1.79.19",
-    "@tamagui/themes": "1.79.19",
+    "@tamagui/themes": "1.102.1",
     "@tamagui/toast": "1.79.19",
     "@ungap/structured-clone": "^1.2.0",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
