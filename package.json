@@ -56,7 +56,7 @@
     "@ngraveio/bc-ur": "^1.1.13",
     "@onekeyfe/cross-inpage-provider-core": "2.0.4",
     "@onekeyfe/cross-inpage-provider-errors": "2.0.4",
-    "@onekeyfe/cross-inpage-provider-injected": "2.0.4",
+    "@onekeyfe/cross-inpage-provider-injected": "2.2.7",
     "@onekeyfe/cross-inpage-provider-types": "2.0.4",
     "@onekeyfe/extension-bridge-hosted": "2.0.4",
     "@onekeyfe/hd-ble-sdk": "1.0.6",
