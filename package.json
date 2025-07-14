@@ -71,7 +71,7 @@
     "@substrate/txwrapper-polkadot": "7.5.1",
     "@tamagui/animations-moti": "1.79.19",
     "@tamagui/config": "1.79.19",
-    "@tamagui/static": "1.79.19",
+    "@tamagui/static": "1.129.16",
     "@tamagui/themes": "1.79.19",
     "@tamagui/toast": "1.79.19",
     "@ungap/structured-clone": "^1.2.0",
